@@ -34,7 +34,7 @@ Task 3: Add your flowchart image here from draw.io "No-Code Programming."
 
 AI Agent logical flowchart: Use markdown and diagrams within [draw.io](https://draw.io/) to create a visual flowchart of your AI agent's core decision-making process. For example to replace with this image, just delete this link then copy and paste your image here. You must do this while in the Readme file as it will convert to a html hyperlink tag.
 <!-- <img width="975" height="975" alt="image" src="https://github.com/user-attachments/assets/01b811d7-c17a-4ad7-8137-46b636d85c54" /> -->
-<img width="975" height="975" alt="image" src="/aiclass/flowpmg.drawio.png" />
+<img width="975" height="975" alt="image" src="flowpmg.drawio.png" />
 
 
 Task 4. Add your agents Ethical Evaluation descriptions.
