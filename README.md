@@ -1,0 +1,2 @@
+# aiclass
+My AI class
