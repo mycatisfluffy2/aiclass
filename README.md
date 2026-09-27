@@ -42,27 +42,38 @@ Task 4. Add your agents Ethical Evaluation descriptions.
 Complete the descriptions below for your AI Agent Design and Ethics Evaluation.
 
 Features	            Agent Task                                      Your Response 
-Scenario Selection    Choose one AI agent scenario           	        [Insert your chosen AI agent]
-Agent Task #1	      Helpful/ethical                                   [Description] 
-                      Potentially unethical                             [Description]
-Agent Task #2	      Helpful/ethical                                   [Description] 
-                      Potentially unethical                             [Description]
-Agent Task #3	      Helpful/ethical                                   [Description] 
-Agent Task #4	      Helpful/ethical                                   [Description]
-Agent Task #5	      Helpful/ethical                                   [Description]
-Data Use              What data does this AI need to collect?        	[Insert response]
-User Interaction      How does the AI interact with users?              [Insert response]
-Decision-Making       What decisions does it make and how?    	        [Insert response]
-Main Goal	      What is the AI designed to accomplish?            [Insert response]
-Misuse Risk	      How could the AI be misused or misunderstood?     [Insert response]
+Scenario Selection    Choose one AI agent scenario           	        [Creative Assistant AI]
+Agent Task #1	      Helpful/ethical                                   [The AI helps users brainstorm original ideas.] 
+                      Potentially unethical                             [The AI could generate information that resembles someone else's work.]
+Agent Task #2	      Helpful/ethical                                   [The AI asks about the user's creative goals and stores that information.]
+                      Potentially unethical                             [The AI could ask for more personal information that it needs, violating the users privacy.]
+Agent Task #3	      Helpful/ethical                                   [The AI provides feedback on a user's creative work.]
+Agent Task #4	      Helpful/ethical                                   [The AI explains it's suggestions and warns the users of potential inaccuracies.]
+Agent Task #5	      Helpful/ethical                                   [The AI provies multiple creative options instead of just one. ]
+Data Use              What data does this AI need to collect?        	[The users desires, interest and creative needs.]
+User Interaction      How does the AI interact with users?              [Store data about the user and communicate about creative processes]
+Decision-Making       What decisions does it make and how?    	        [It reasons how to help the users with a creative task by tappin into the stored user data for reference.]
+Main Goal	      What is the AI designed to accomplish?            [Act as a digital Creative Assistant.]
+Misuse Risk	      How could the AI be misused or misunderstood?     [If the user uses the assistant as an authoritative figure or uses it plagiarize work.]
 
 Task 5: Complete the Ethical AI Principles Evaluation questions for your agent.
 
 Principle:	Does your AI uphold this principle? How or why not?
-Equity over efficiency		[Your evaluation here]
-Transparency and explainability	[Your evaluation here]
-Inclusive design practices	[Your evaluation here]
-Historical and social awareness	[Your evaluation here]
+
+Yes beucause it only stores data it needs and it respects the privacy of the user.
+
+Equity over efficiency [
+    The AI should prioritize giving users fair and useful assistance rather than simply producing responses as quickly as possible. It should treat users respectfully and avoid making assumptions based on their background, abilities, or creative interests. However, the AI may still produce biased suggestions, so its responses should be reviewed carefully.
+]
+Transparency and explainability	[
+    The AI should be transparent about the fact that its suggestions are AI-generated. It should explain its recommendations when appropriate and acknowledge uncertainty when it does not know something. Users should also understand what information the AI collects and how that information is used.
+]
+Inclusive design practices	[
+    The AI should be designed so that people with different backgrounds, abilities, communication styles, and levels of creative experience can use it. It should avoid assumptions about what users can or cannot create and provide different ways to approach creative tasks.
+]
+Historical and social awareness	[
+    The AI should recognize that creative work can be influenced by different cultures, historical events, and social experiences. It should avoid stereotypes and should provide context when discussing culturally or historically sensitive subjects.
+]
 
 Task 6. Answer the following final discussion questions.
 1. After designing and evaluating your AI agent, what is the most significant ethical challenge you identified? 
