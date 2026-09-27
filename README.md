@@ -1,7 +1,7 @@
 # aiclass
 
-Student Name: __________________________
-Date: _________________________________
+Student Name: Jack Heintzeman  
+Date: 26/09/26
 Assignment Title: Project Exercise 2-1: Designing and Evaluating an AI Agent
 
 README Template: AI Agent Design and Evaluation
@@ -11,7 +11,7 @@ This document serves as a README file that introduces a project by explaining it
 the project does and how to work with it. It also serves as a reference point for future development, troubleshooting, and onboarding new contributors.
 
 
-Task 1: Complete this section and select one of the following scenarios for your AI agent: [Insert your chosen AI agent here]
+Task 1: Complete this section and select one of the following scenarios for your AI agent: [Creative Assistant AI]
 1. Study Buddy AI
 2. Community Helper AI
 3. Creative Assistant AI
@@ -20,20 +20,22 @@ Task 1: Complete this section and select one of the following scenarios for your
 
 Task 2: Define the AI agent by brainstorming the answers to the following questions. Add your responses here for Agent Overview:
 
-1. What data does this AI need to collect? [Your response here]
+1. What data does this AI need to collect? [data about the user for creativity help.]
 
-2. How does it interact with users? [Your response here]
+2. How does it interact with users? [Communicats with the user and helps with the creative process. Stores data about the user.]
 
-3. What decisions does it make? [Your response here]
+3. What decisions does it make? [How data is used, how to respond to user input, and what to reccomend.]
 
-4. What is its main goal? [Your response here]
+4. What is its main goal? [Act as a digital Creative Assistant.]
 
-5. How could it be misused, even if unintentionally? [Your response here]
+5. How could it be misused, even if unintentionally? [Unintentional plagiarism or accidental misinformation]
 
 Task 3: Add your flowchart image here from draw.io "No-Code Programming." 
 
 AI Agent logical flowchart: Use markdown and diagrams within [draw.io](https://draw.io/) to create a visual flowchart of your AI agent's core decision-making process. For example to replace with this image, just delete this link then copy and paste your image here. You must do this while in the Readme file as it will convert to a html hyperlink tag.
-<img width="975" height="975" alt="image" src="https://github.com/user-attachments/assets/01b811d7-c17a-4ad7-8137-46b636d85c54" />
+<!-- <img width="975" height="975" alt="image" src="https://github.com/user-attachments/assets/01b811d7-c17a-4ad7-8137-46b636d85c54" /> -->
+<img width="975" height="975" alt="image" src="/aiclass/git-ai-flow.drawio.html" />
+
 
 Task 4. Add your agents Ethical Evaluation descriptions.
 
